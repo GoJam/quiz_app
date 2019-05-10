@@ -1,0 +1,74 @@
+<!-- Questions: 
+1. What does CSS stand for?
+
+a. Cheese, Special Sauce
+b. Cascading Style Sheets
+c. Coding Successive Solutions
+d. Canadian Super Solider
+
+2. What does HTML stand for?
+
+a. Hypertext Markup Language
+b. Hit The Mother Load
+c. Hot Tomatoes Melt Lips
+d. Hardcode Terminal Machine Learning
+
+3. What is JavaScript?
+
+a. The newspaper you read with your coffee. 
+b. The coding language used for programming espresso machines.
+c. The script for the spiel at Starbucks.
+d. JavaScript, often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. JavaScript has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions. 
+
+4. What is the DOM?
+
+a. The Document Object Model. 
+b. My Italian friend Dominic's nickname. "Heeeeey, it's the DOM! I love this guy!"
+c. The Downtown Orlando Monastery.
+d. The Data Override Machine.
+
+5. How do you implement a quiz app?
+
+a. Copy and paste from the repl.it you guys gave me. Just kidding, tee hee!
+b. A little bit of HTML, a dash of CSS, and a whole buncha JavaScript. 
+c. Hire a tech company to do it for me!
+d. Alex Trebek.
+
+6. What are media queries?
+
+a. Fake News. Sad!
+b. Media queries are a feature of CSS that enable webpage content to adapt to different screen sizes and resolutions.
+c. Questions that people can ask reporters. 
+d. The code that news websites use for writing out questions. 
+
+7. What does box-sizing: border-box do?
+
+a. It's how Amazon sizes boxes for shippign items. 
+b. In CSS it tells the browser to account for any border and padding in the values you specify for an element's width and height. 
+c. It's the system that boxing ring designers use to figure out the dimensions for a boxing ring. 
+d. What doesn't it do?!
+
+8. Define a JavaScript function.
+
+a. A relationship or expression involving one or more variables.
+b. An activity or purpose natural to or intended for a person or thing.
+c. let function thisIsAFunction() {
+    //do stuff and/or things
+}
+d. A repeatable process or behavior that can be called upon when needed. 
+
+9. Which of the following is not a falsy value?
+
+a. false
+b. true
+c. null
+d. 0
+
+10. What is control flow?
+
+a. Dictates how programs execute different sets of instructions based on different conditions.
+b. A problem for people 65 and up.
+c. The opposite of flow control. 
+d. How the water utility company directs where the water goes. 
+
+-->
