@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Orbitron', sans-serif;
+}
+
+body {
+  margin: 10px;
+  background: orange;
+}
+
+.questionScore {
+  position: fixed;
+  top: 50px;
+  right: 15px;
+  text-transform: uppercase;
+}
+
+.questionScore li {
+  font-size: 30px;
+}
+
+h1, h2, .startPage  {
+ text-align: center;
+}
+
+.startImg {
+  height: 30%;
+  width: 30%;
+  border: solid 5px black;
+  border-radius: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+.startButton {
+  border-radius: 6px;
+  border: 4px solid black;
+  width: 175px;
+  height: 50px;
+  font-size: 20px;
+  text-transform: uppercase;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: orangered;
+  transition: 0.3s;
+}
+
+.startButton:hover{
+  background-color: black;
+  color: white;
+}

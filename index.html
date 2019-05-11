@@ -1,18 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
-</head>
-<body>
-  <header role="banner"><h1>Quiz App for New Coders</h1></header>
-
-</body>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Radical Edward's Web Dev Trivia</title>
+    <meta name="description" content="Do you know your web development basics?">
+    <link href="index.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="index.js"></script>
+  </head>
+  <body>
+    <header role="banner">
+      <div class="col-4">
+        <a href="index.html">
+          <img class="logo" src="https://i.imgur.com/zsIIoVO.png" alt="Ed's emoticon logo">
+        </a>
+      </div>
+      <div class="questionScore">
+        <ul>
+          <li>Question: <span class="questionCount">0</span>/10</li>
+          <li>Score: <span class="userScore">0</span></li>
+        </ul>
+      </div>
+    </header>
+    <main role="main">
+      <div class="startPage">
+        <h1 class="quizName">Radical Edward's Web Dev Trivia</h1>
+        <h2 class="tagLine">Does Ed know more than you? Hmmmmmmm?</h2>
+        <img src="https://media.giphy.com/media/KNymILWBfN4d2/giphy.gif" alt="Ed riding a scooter" class="startImg">
+        <button type="button" class="startButton">Play with Ed!</button>
+      </div>
+      <div class="questionPage"></div>
+    </main>
+  </body>
 </html>
-
-
-
-
 
