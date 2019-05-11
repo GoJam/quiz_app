@@ -39,7 +39,7 @@ d. Alex Trebek.
 a. Fake News. Sad!
 b. Media queries are a feature of CSS that enable webpage content to adapt to different screen sizes and resolutions.
 c. Questions that people can ask reporters. 
-d. The code that news websites use for writing out questions. 
+d. The algorithms that news websites use for finding the best stories.
 
 7. What does box-sizing: border-box do?
 
